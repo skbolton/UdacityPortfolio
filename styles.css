@@ -76,7 +76,8 @@ h1 {
 .hero {
   padding: 1em;
   max-width: 100%;
-  background-color: #44ADFF;
+  /*background-color: #44ADFF;*/
+  background: linear-gradient(-45deg, #0686EA 10%, rgb(80, 210, 221) 90%);
   color: white;
 }
 
@@ -88,7 +89,7 @@ h1 {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  box-shadow:0 0  50px 10px #ef6518;
+  box-shadow:0 0  100px 15px #fff;
 
 }
 
